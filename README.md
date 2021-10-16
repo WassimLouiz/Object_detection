@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Object detection
+
+This project is a web application that uses our real time camera feed in order to detect objects.
+Created with ReactJS and a model from TensorflowJS that help us detect all sorts of objects simultaneously.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
